@@ -9,7 +9,7 @@ feelings based outside the vehicle
 
 ## How to run
 - ```git clone git@github.com:pokumars/moprim-app.git```
-- ```cd moprim-app && npm install```
+- ```cd moprim-app && npm install``` 
 - ```npm start```
 - In Android
   - Open the `android` directory using Android Studio
